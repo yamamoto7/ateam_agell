@@ -9,7 +9,7 @@ gem 'rails', '~> 5.2.1'
 gem 'sqlite3'
 
 # Server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'uglifier', '>= 1.3.0'
 gem 'webpacker'
 gem 'actioncable'
